@@ -2,7 +2,7 @@
 
 Convert from English to Yoda speak. Yoda often orders sentences as Object-Subject-Verb, split verbs, switches entire phrases and sometimes uses sentences that are different from his normal syntax!
 
-#### Live Project [https://mozrd.csb.app/](https://mozrd.csb.app/)
+#### Live Project [https://yoda-translate-meet.netlify.app/](https://yoda-translate-meet.netlify.app/)
 
 ## How to Use
 
